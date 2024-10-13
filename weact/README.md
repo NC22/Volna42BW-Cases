@@ -37,7 +37,7 @@ First, drilled holes (drilled with a 2mm drill bit using a small drill motor) in
 
 Universal board used :  
 
-<img src="https://github.com/NC22/Volna42BW-Cases/blob/main/weact/img/board_ref.jpg?raw=true">
+<img src="https://github.com/NC22/Volna42BW-Cases/blob/main/weact/img/board_ref.jpg?raw=true" width="300">
 
 Additional previews  
 
