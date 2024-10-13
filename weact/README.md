@@ -8,7 +8,7 @@ PRINT/alt/ - алтернативный вариант основания и с�
 
 Макетная плата - 5х7см, толщина ~1.2мм - зазоры **skelet_holder.stl** выставлены исходя из поправки на эту толщину.  
 Точные размеры дисплея WeAct и платы можно посмотреть в файле проекта **PCB_WeAct_display_sizes.skp**  
-Для крепления экрана к skelet_holder.stl используются x4 крепления Spacer Male-Female 12mm + 5mm  
+Для крепления экрана к skelet_holder.stl используются x4 крепления Spacer Male-Female 12mm+5mm  
 
 Верхняя крышка крепится на 4 винта M2 2x6мм, верхнюю крышку крепил в самом конце после закрепления дисплея относительно основной части корпуса. Сначала просверлил в ушках-креплениях skelet_holder'a места под винты, расположил и закрепил его ровно относительно середины и основания, сверлил моторчиком-сверлом 2мм, маркировал рапидографом через просверленные отверстия. Использовал черные пластиковые, сначала вкручивал металический саморез 2x8мм чтобы пластиковые не мучить много.
   
@@ -22,7 +22,7 @@ PRINT/alt/ - alternative version of the base and middle section - this is the on
 
 The prototype board is 5x7cm, thickness ~1.2mm — the gaps in **skelet_holder.stl** are set according to this thickness.  
 Exact dimensions of the WeAct display and the board can be found in the project file PCB_WeAct_display_sizes.skp.  
-For mounting the screen to skelet_holder.stl, use 4 x Spacer Male-Female 12mm + 5mm mounts.  
+For mounting the screen to skelet_holder.stl, use 4 x Spacer Male-Female 12mm+5mm mounts.  
 
 The top cover is attached with four M2 2x6mm screws. I attached the top cover at the very end, after securing the display relative to the main part of the case.
 First, drilled holes (drilled with a 2mm drill bit using a small drill motor) in the mounting tabs of the skelet_holder for the screws, positioned and fixed it precisely relative to the middle and base marking the holes with a rapidograph through the drilled holes. I used black plastic screws, first screwing in a 2x8mm metal screw to avoid wearing out the plastic screws too much.  
