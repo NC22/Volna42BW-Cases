@@ -42,6 +42,8 @@ Universal board used (5x7cm) :
 
 <img src="https://github.com/NC22/Volna42BW-Cases/blob/main/weact/img/board_ref.jpg?raw=true" width="540">
 
+<img src="https://github.com/NC22/Volna42BW-Cases/blob/main/weact/img/PCB_WeAct_display_sizes.jpg?raw=true" width="540">
+
 Additional previews  
 
 <img src="https://github.com/NC22/Volna42BW-Cases/blob/main/weact/img/preview.jpg?raw=true">
