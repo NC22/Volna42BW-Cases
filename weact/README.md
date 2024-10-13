@@ -38,7 +38,7 @@ First, drilled holes (drilled with a 2mm drill bit using a small drill motor) in
   
 **pads.stl** - stands that are inserted into the bottom (bottom) to support the microchip and display. The gap at the mounts is about ~0.1-0.2mm—they are inserted with great effort since they are not meant to be disassembled later. The stands are separate because the ribbed back part is printed upside down, and in this case, it’s easier to make it completely flat so no support structures are needed. You can simplify it if needed for unified printing.
 
-Universal board used :  
+Universal board used (5x7cm) :  
 
 <img src="https://github.com/NC22/Volna42BW-Cases/blob/main/weact/img/board_ref.jpg?raw=true" width="540">
 
