@@ -1,4 +1,4 @@
-Related to <a href="https://github.com/NC22/Volna42BW">Volna42BW</a> project
+Related to <a href="https://github.com/NC22/Volna42BW" target="_blank">Volna42BW</a> project
 
 <img src="https://github.com/NC22/Volna42BW-Cases/blob/main/weact/img/preview2.jpg?raw=true">
 
