@@ -9,8 +9,8 @@ Related to <a href="https://github.com/NC22/Volna42BW" target="_blank">Volna42BW
 
 WeAct 4.2 дисплей, без аккумулятора    
 
-PRINT/ - STL файлы для печати  
-PRINT/alt/ - алтернативный вариант основания и середины - изначально печатал именно его - там нет дополнительных поддерживающий креплений сверху и снизу и так же нет пластиковых креплений для вставки в нижнюю часть - все скрепляется винтиками.  
+PRINT/ - STL файлы для печати (только соединение винтами, опционально есть разметка в base_v2.skp для печати креплений + отверстий под них у middle.stl и bottom.stl части)  
+PRINT/alt/ - алтернативный вариант основания и середины - изначально печатал именно его - там нет дополнительных подпорок сверху и снизу. 
 
 Макетная плата - 5х7см, толщина ~1.2мм - зазоры **skelet_holder.stl** выставлены исходя из поправки на эту толщину.  
 Точные размеры дисплея WeAct и платы можно посмотреть в файле проекта **PCB_WeAct_display_sizes.skp**  
@@ -27,8 +27,8 @@ PRINT/alt/ - алтернативный вариант основания и с�
 
 WeAct 4.2 Display, No-Battery  
 
-PRINT/ - STL files for printing  
-PRINT/alt/ - alternative version of the base and middle section - this is the one I originally printed. It doesn’t have additional supporting mounts at the top and bottom, and there are no plastic mounts for inserting into the bottom part, so everything is held together with screws.  
+PRINT/ - STL files for printing (screw connection only, optional base_v2.skp contain marks for "clips" holes to connect middle.stl & bottom.stl parts)
+PRINT/alt/ - alternative version of the base and middle section - this is the one I originally printed. It doesn’t have additional supporting mounts at the top and bottom.  
 
 The prototype board is 5x7cm, thickness ~1.2mm — the gaps in **skelet_holder.stl** are set according to this thickness.  
 Exact dimensions of the WeAct display and the board can be found in the project file PCB_WeAct_display_sizes.skp.  
