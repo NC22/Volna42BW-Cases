@@ -47,6 +47,10 @@ Universal board used (5x7cm) :
 
 Additional previews  
 
+<img src="https://github.com/NC22/Volna42BW-Cases/blob/main/weact/img/stand_weact.jpg?raw=true">
+
+Configurable stand - <a href="https://github.com/NC22/Volna42BW-Cases/tree/main/stand">Stand STL</a>
+
 <img src="https://github.com/NC22/Volna42BW-Cases/blob/main/weact/img/preview.jpg?raw=true">
 
 <img src="https://github.com/NC22/Volna42BW-Cases/blob/main/weact/img/preview_back.jpg?raw=true">
