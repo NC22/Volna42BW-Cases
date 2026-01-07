@@ -7,7 +7,9 @@ Related to <a href="https://github.com/NC22/Volna42BW" target="_blank">Volna42BW
 
 <a href="https://github.com/NC22/Volna42BW-Cases/tree/main/weact/img" target="_blank">Фото собранного корпуса</a>  
 
-WeAct 4.2 дисплей, без аккумулятора    
+WeAct 4.2 дисплей, без аккумулятора, ESP8266    
+
+Алтернативное решение для ESP32 SuperMini S3, с аккумулятором - base_v2_esp32_supermini_s3.skp - только skp файл (не идеально, в работе)
 
 PRINT/ - STL файлы для печати (только соединение винтами, опционально есть разметка в base_v2.skp для печати креплений + отверстий под них у middle.stl и bottom.stl части)  
 PRINT/alt/ - алтернативный вариант основания и середины - изначально печатал именно его - там нет дополнительных подпорок сверху и снизу. 
@@ -25,7 +27,9 @@ PRINT/alt/ - алтернативный вариант основания и с�
 
 <a href="https://github.com/NC22/Volna42BW-Cases/tree/main/weact/img" target="_blank">Builded case images</a>  
 
-WeAct 4.2 Display, No-Battery  
+WeAct 4.2 Display, No-Battery, ESP8266
+
+Alt. solution for ESP32 SuperMini S3, with batery - base_v2_esp32_supermini_s3.skp - only skp file (wip, not perfect)
 
 PRINT/ - STL files for printing (screw connection only, optional base_v2.skp contain marks for "clips" holes to connect middle.stl & bottom.stl parts)
 PRINT/alt/ - alternative version of the base and middle section - this is the one I originally printed. It doesn’t have additional supporting mounts at the top and bottom.  
